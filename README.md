@@ -1,2 +1,2 @@
 # SitOnChair
-project 
+https://adambizan.github.io/SitOnChair/
